@@ -4,8 +4,11 @@
   "description": "Curso de NPM do Daniel Berg",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo 'Olá, Mundo! [INICIANDO SERVIDOR DE PRODUÇÃO...]'",
+    "dev": "echo '[INICIANDO SERVIDOR DE DESENVOLVIMENTO...]'"
   },
+  "keywords": [],
   "author": "João Victor Carvalho",
   "license": "ISC"
 }
